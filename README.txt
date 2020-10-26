@@ -1,4 +1,4 @@
-Certified Language Code - Repository Desc
+Certified Language Code - Repository Description
 
 In my current professional position I code in R, SQL and VBA however during my free time I'm working towards certification in Python, C++ and JavaScript.
 
